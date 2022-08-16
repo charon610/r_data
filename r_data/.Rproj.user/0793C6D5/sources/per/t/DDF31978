@@ -1,0 +1,27 @@
+{
+    "id": "DDF31978",
+    "path": "D:/PSW/r_data/r_data/test04.R",
+    "project_path": "test04.R",
+    "type": "r_source",
+    "hash": "3245505253",
+    "contents": "",
+    "dirty": false,
+    "created": 1660619290263.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "14,28",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1660624235,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1660624235254,
+    "read_only": false,
+    "read_only_alternatives": []
+}
